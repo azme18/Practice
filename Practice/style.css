@@ -1,0 +1,11 @@
+p{
+    font-size: 32px;
+    color: blue;
+    line-height: 1.5;
+}
+
+.second-paragraph{
+    color: brown;
+    line-height: 1;
+    font-size: 24px;
+}
